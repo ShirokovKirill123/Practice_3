@@ -1,4 +1,4 @@
-﻿namespace Practice_3
+﻿namespace Parity_Check
 {
     public class Parity_Check
     {
